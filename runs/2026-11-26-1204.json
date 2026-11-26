@@ -1,0 +1,106 @@
+{
+ "at": "2026-11-26T12:04:17.076813-06:00",
+ "notes": "Midday run. 22 new items, mostly deals and Verge shopping posts. Reddit skipped.",
+ "must_see": [],
+ "read": [
+  {
+   "title": "Data Center Developer Wanted to Build Up, Not Out. Kansas City Said No.",
+   "link": "https://www.nytimes.com/2026/11/26/business/energy-environment/vertical-data-center-kansas-city.html",
+   "source": "NYT",
+   "why": "Local pushback on AI infrastructure, a real shift.",
+   "minutes": null,
+   "image": "https://static01.nyt.com/images/2026/11/17/business/17-vertical-data-center-handouts-04/17-vertical-data-center-handouts-04-mediumSquareAt3X.jpg"
+  }
+ ],
+ "watch": [
+  {
+   "title": "Preserving Analog History Before It Disappears Forever (at Library of Congress)",
+   "link": "https://www.youtube.com/watch?v=qOelXBLzQbI",
+   "source": "Adam Savage's Tested",
+   "why": "Adam Savage inside the Library of Congress audio preservation lab.",
+   "minutes": null,
+   "image": null
+  },
+  {
+   "title": "Playing GTA 6 with Rokid AR Spatial Glasses",
+   "link": "https://www.youtube.com/watch?v=mLSxQErpovE",
+   "source": "Spatial Insider",
+   "why": "GTA VI meets spatial glasses, two of your interests.",
+   "minutes": null,
+   "image": null
+  }
+ ],
+ "headlines": [
+  {
+   "title": "Trump's Latest Tariffs Revive Focus on Pressuring China",
+   "link": "https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html",
+   "source": "NYT",
+   "why": "Follow-up on the new tariffs.",
+   "minutes": null,
+   "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26Biz-Asia-Tariffs-01-fzkq/26Biz-Asia-Tariffs-01-fzkq-mediumSquareAt3X.jpg"
+  },
+  {
+   "title": "The Army Knew Much Earlier of the Explosive Risk in Iowa, Evidence Suggests",
+   "link": "https://www.nytimes.com/2026/11/26/us/iowa-lead-ammunition-stockpile-history.html",
+   "source": "NYT",
+   "why": "New evidence on the Iowa stockpile story.",
+   "minutes": null,
+   "image": "https://static01.nyt.com/images/2026/11/25/arts/US-army-prep-cover-image/US-army-prep-cover-image-mediumSquareAt3X.jpg"
+  },
+  {
+   "title": "Trump Administration's Cuts to SNAP Threaten Free School Meals",
+   "link": "https://www.nytimes.com/2026/11/26/us/politics/snap-food-stamps-school-meals.html",
+   "source": "NYT",
+   "why": "US politics.",
+   "minutes": null,
+   "image": "https://static01.nyt.com/images/2026/11/25/multimedia/00dc-schoolmeals-01-glzv/00dc-schoolmeals-01-glzv-mediumSquareAt3X.jpg"
+  },
+  {
+   "title": "Federal judge blocks the FCC from reviewing ABC's licenses early",
+   "link": "https://www.theverge.com/policy/1043116/fcc-disney-abc-broadcast-licenses-review-early-judge-block",
+   "source": "The Verge",
+   "why": "Media and politics.",
+   "minutes": null,
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+   "title": "GTA VI developers vote against unionization",
+   "link": "https://www.theverge.com/games/1043169/rockstar-games-union-vote-iwgb",
+   "source": "The Verge",
+   "why": "Rockstar news.",
+   "minutes": null,
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Jason_and_Lucia_01.jpg?quality=90&strip=all&crop=0,0,100,100"
+  },
+  {
+   "title": "Android app developers will soon have to share their address publicly",
+   "link": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+   "source": "The Verge",
+   "why": "Matters to indie developers.",
+   "minutes": null,
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&strip=all&crop=0,0,100,100"
+  }
+ ],
+ "discover": [
+  {
+   "name": "Shift Happens, Marcin Wichary's keyboard history book",
+   "link": "https://shifthappens.site/",
+   "why": "Wichary runs Unsung. This is his 1,200-page, self-published book on keyboards. A real labor of love.",
+   "found_via": "Daring Fireball, Marcin Wichary",
+   "image": "https://shifthappens.site/images/ogimage.jpg"
+  },
+  {
+   "name": "Submerged: Apple Vision Pro's first scripted film",
+   "link": "https://www.wallpaper.com/tech/behind-the-scenes-of-short-film-submerged-the-apple-vision-pros-first-slice-of-unique-content",
+   "why": "Behind-the-scenes look at scripted immersive filmmaking, close to your VR180 work.",
+   "found_via": "Web search on immersive film",
+   "image": "https://cdn.mos.cms.futurecdn.net/4wygZnhri4Q7pLHnA6euYB-2560-80.jpg"
+  }
+ ],
+ "wildcard": {
+  "name": "George Blood Audio on the Internet Archive",
+  "link": "https://archive.org/details/georgeblood",
+  "why": "Hundreds of thousands of digitized 78rpm records, from the kind of audio preservation Adam Savage visited.",
+  "found_via": "Adam Savage's Library of Congress video"
+ },
+ "skipped": 10
+}
