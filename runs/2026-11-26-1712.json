@@ -1,0 +1,37 @@
+{
+ "at": "2026-11-26T17:12:55.279878-06:00",
+ "notes": "Thanksgiving evening, quiet. Reddit skipped. Most Verge/MacRumors items were Black Friday deals.",
+ "must_see": [
+  {
+   "title": "U.K. Releases Files on Peter Mandelson, Ambassador Tied to Jeffrey Epstein",
+   "link": "https://www.nytimes.com/2026/11/26/world/europe/peter-mandelson-epstein-uk.html",
+   "source": "NYT",
+   "why": "Big world news: new UK documents on the Epstein link.",
+   "minutes": null,
+   "image": null
+  }
+ ],
+ "read": [
+  {
+   "title": "Netflix's coziest show has made a very quiet return",
+   "link": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+   "source": "The Verge",
+   "why": "A small, gentle show you may have missed.",
+   "minutes": null,
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-26-at-3.34.34-PM.png?quality=90&strip=all&crop=0%2C3.2347601883764%2C100%2C93.530479623247&w=1200"
+  }
+ ],
+ "watch": [],
+ "headlines": [],
+ "discover": [
+  {
+   "name": "Fran's Realm \u2014 notes on Apple Notes",
+   "link": "https://iamfran.com/notes/better-apple-notes",
+   "why": "A personal site of tips on getting more from Apple Notes.",
+   "found_via": "Daring Fireball post about Apple Notes",
+   "image": "https://iamfran.com/og/better-apple-notes.png"
+  }
+ ],
+ "wildcard": {},
+ "skipped": 18
+}
