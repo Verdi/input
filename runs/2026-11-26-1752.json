@@ -1,0 +1,69 @@
+{
+ "at": "2026-11-26T17:52:52.491152-06:00",
+ "notes": "Quiet evening: only 3 new items, all PBS NewsHour. Reddit skipped.",
+ "must_see": [],
+ "read": [],
+ "watch": [
+  {
+   "title": "Despite political divide, Americans often 'speak in one voice'",
+   "link": "https://www.youtube.com/watch?v=izO0aDNBwig",
+   "source": "PBS NewsHour",
+   "why": "Data on how much Americans actually agree on, timely for Thanksgiving.",
+   "minutes": null,
+   "image": null,
+   "tags": [
+    "us-politics",
+    "news"
+   ]
+  },
+  {
+   "title": "How Democrats' election successes could lead to new climate change policies",
+   "link": "https://www.youtube.com/watch?v=4Y3ioMi8ivA",
+   "source": "PBS NewsHour",
+   "why": "Smart US politics analysis on where climate policy may go next.",
+   "minutes": null,
+   "image": null,
+   "tags": [
+    "us-politics",
+    "science"
+   ]
+  }
+ ],
+ "headlines": [
+  {
+   "title": "News Wrap: EPA reports 'zero' airborne lead in Iowa; new tariffs planned on 14 countries",
+   "link": "https://www.youtube.com/watch?v=GZt7r_thwEw",
+   "source": "PBS NewsHour",
+   "why": "Quick Thursday US news roundup incl. tariffs and Russia.",
+   "minutes": null,
+   "image": null,
+   "tags": [
+    "news",
+    "us-politics"
+   ]
+  }
+ ],
+ "discover": [
+  {
+   "name": "Kagi Small Web",
+   "link": "https://kagi.com/smallweb",
+   "why": "A feed of recent posts from independent personal blogs, a good way to find new indie web people to follow.",
+   "found_via": "Web search on indie web discovery",
+   "tags": [
+    "indie-web"
+   ],
+   "image": "https://kagi.com/smallweb/static/SmallWeb.png?v=617a8326c6"
+  }
+ ],
+ "wildcard": {
+  "name": "ProVideo Coalition: 3D / VR180 archive",
+  "link": "https://www.provideocoalition.com/tag/3d-vr180",
+  "why": "Running archive of VR180 production stories and workflows, handy for your immersive filmmaking.",
+  "found_via": "Web search on VR180 creators",
+  "tags": [
+   "vr180",
+   "filmmaking"
+  ]
+ },
+ "skipped": 0
+}
