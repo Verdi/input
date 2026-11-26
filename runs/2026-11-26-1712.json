@@ -8,7 +8,10 @@
    "source": "NYT",
    "why": "Big world news: new UK documents on the Epstein link.",
    "minutes": null,
-   "image": null
+   "image": null,
+   "tags": [
+    "world"
+   ]
   }
  ],
  "read": [
@@ -18,7 +21,10 @@
    "source": "The Verge",
    "why": "A small, gentle show you may have missed.",
    "minutes": null,
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-26-at-3.34.34-PM.png?quality=90&strip=all&crop=0%2C3.2347601883764%2C100%2C93.530479623247&w=1200"
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-26-at-3.34.34-PM.png?quality=90&strip=all&crop=0%2C3.2347601883764%2C100%2C93.530479623247&w=1200",
+   "tags": [
+    "film-tv"
+   ]
   }
  ],
  "watch": [],
@@ -29,7 +35,11 @@
    "link": "https://iamfran.com/notes/better-apple-notes",
    "why": "A personal site of tips on getting more from Apple Notes.",
    "found_via": "Daring Fireball post about Apple Notes",
-   "image": "https://iamfran.com/og/better-apple-notes.png"
+   "image": "https://iamfran.com/og/better-apple-notes.png",
+   "tags": [
+    "indie-web",
+    "apple"
+   ]
   }
  ],
  "wildcard": {},

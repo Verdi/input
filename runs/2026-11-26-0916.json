@@ -7,14 +7,22 @@
    "link": "https://www.youtube.com/watch?v=yuL7Ac6W2rk",
    "source": "Late Night with Seth Meyers",
    "why": "Seth Meyers' A Closer Look.",
-   "minutes": null
+   "minutes": null,
+   "tags": [
+    "comedy",
+    "us-politics"
+   ]
   },
   {
    "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
    "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html",
    "source": "NYT",
    "why": "Big US-China tech and policy story.",
-   "minutes": null
+   "minutes": null,
+   "tags": [
+    "ai",
+    "world"
+   ]
   }
  ],
  "read": [
@@ -24,7 +32,11 @@
    "source": "Daring Fireball",
    "why": "Interface craft, and a nod to Marcin Wichary's Unsung blog.",
    "minutes": null,
-   "image": "https://daringfireball.net/graphics/df-wide-card.png"
+   "image": "https://daringfireball.net/graphics/df-wide-card.png",
+   "tags": [
+    "design",
+    "apple"
+   ]
   },
   {
    "title": "Why GTA VI's version of Florida feels so real",
@@ -32,7 +44,11 @@
    "source": "The Verge",
    "why": "You're playing GTA VI. This is how the world was designed.",
    "minutes": null,
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a20dbee8d365-screenshotUrl.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200"
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/1a20dbee8d365-screenshotUrl.jpg?quality=90&strip=all&crop=0%2C3.4613147178592%2C100%2C93.077370564282&w=1200",
+   "tags": [
+    "games",
+    "design"
+   ]
   },
   {
    "title": "Trump Tried to Cripple Huawei. Now It Is Central to China's A.I. Push.",
@@ -40,14 +56,21 @@
    "source": "NYT",
    "why": "Smart read on the US-China AI race.",
    "minutes": null,
-   "image": "https://static01.nyt.com/images/2026/11/25/multimedia/Biz-China-Huawei-03-wcft/Biz-China-Huawei-03-wcft-mediumSquareAt3X.jpg"
+   "image": "https://static01.nyt.com/images/2026/11/25/multimedia/Biz-China-Huawei-03-wcft/Biz-China-Huawei-03-wcft-mediumSquareAt3X.jpg",
+   "tags": [
+    "world",
+    "ai"
+   ]
   },
   {
    "title": "Andy Taylor, Duran Duran's 'Live-Wire' Guitarist, Dies at 65",
    "link": "https://www.nytimes.com/2026/11/25/arts/music/andy-taylor-duran-duran-dead.html",
    "source": "NYT",
    "why": "New wave music news.",
-   "minutes": null
+   "minutes": null,
+   "tags": [
+    "music"
+   ]
   }
  ],
  "watch": [
@@ -56,35 +79,53 @@
    "link": "https://www.youtube.com/watch?v=5XIC-lw2lEQ",
    "source": "Louisiana Channel",
    "why": "A short, thoughtful author interview on fiction and risk.",
-   "minutes": null
+   "minutes": null,
+   "tags": [
+    "books"
+   ]
   },
   {
    "title": "I Turned My Childhood Into an Apple Vision Pro Game",
    "link": "https://www.youtube.com/watch?v=61kebn71WmE",
    "source": "Spatial Insider",
    "why": "Vision Pro spatial content from a maker.",
-   "minutes": null
+   "minutes": null,
+   "tags": [
+    "vr180",
+    "games",
+    "apple"
+   ]
   },
   {
    "title": "Inside the Life of Two Japanese Designers Raising a Family in Tokyo",
    "link": "https://www.youtube.com/watch?v=lvxFSHdAYMg",
    "source": "Never Too Small",
    "why": "Small-space design.",
-   "minutes": null
+   "minutes": null,
+   "tags": [
+    "small-spaces",
+    "design"
+   ]
   },
   {
    "title": "Hoda Kotb on the Macy's Thanksgiving Day Parade Being Postponed for the First Time",
    "link": "https://www.youtube.com/watch?v=_BbB1rx0NYo",
    "source": "Late Night with Seth Meyers",
    "why": "Late night clip on the day's big story.",
-   "minutes": null
+   "minutes": null,
+   "tags": [
+    "comedy"
+   ]
   },
   {
    "title": "This ONE Screw Ruined My Astrophotography",
    "link": "https://www.youtube.com/watch?v=G1fBFudcceE",
    "source": "Cuiv, The Lazy Geek",
    "why": "Astrophotography troubleshooting from a favorite.",
-   "minutes": null
+   "minutes": null,
+   "tags": [
+    "science"
+   ]
   }
  ],
  "headlines": [
@@ -94,7 +135,10 @@
    "source": "NYT",
    "why": "First postponement ever, per Meyers' guest.",
    "minutes": null,
-   "image": "https://static01.nyt.com/images/2026/12/10/multimedia/karsten-header-01-pjvz/karsten-header-01-pjvz-mediumSquareAt3X.jpg"
+   "image": "https://static01.nyt.com/images/2026/12/10/multimedia/karsten-header-01-pjvz/karsten-header-01-pjvz-mediumSquareAt3X.jpg",
+   "tags": [
+    "news"
+   ]
   },
   {
    "title": "Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress",
@@ -102,7 +146,11 @@
    "source": "NYT",
    "why": "AI policy.",
    "minutes": null,
-   "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-cong-ai-01-lvcp/25dc-cong-ai-01-lvcp-mediumSquareAt3X.jpg"
+   "image": "https://static01.nyt.com/images/2026/11/25/multimedia/25dc-cong-ai-01-lvcp/25dc-cong-ai-01-lvcp-mediumSquareAt3X.jpg",
+   "tags": [
+    "ai",
+    "us-politics"
+   ]
   },
   {
    "title": "42 state AGs are trying to stop Character.AI from selling users' chats",
@@ -110,7 +158,11 @@
    "source": "The Verge",
    "why": "AI and privacy.",
    "minutes": null,
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25557391/STK278_character_ai_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "tags": [
+    "ai",
+    "us-politics"
+   ]
   },
   {
    "title": "Apple still working on giant foldable iPad that could cost $5,000",
@@ -118,7 +170,10 @@
    "source": "MacRumors",
    "why": "Possible new Apple product.",
    "minutes": null,
-   "image": "https://images.macrumors.com/t/mBf6xVFURw4bf_YLFcMqx3pE1Fg=/2250x/article-new/2024/05/m4-iPad-Pro-Horizontal-Feature-Orange-and-Blue.jpg"
+   "image": "https://images.macrumors.com/t/mBf6xVFURw4bf_YLFcMqx3pE1Fg=/2250x/article-new/2024/05/m4-iPad-Pro-Horizontal-Feature-Orange-and-Blue.jpg",
+   "tags": [
+    "apple"
+   ]
   },
   {
    "title": "G\u00e9rard Depardieu ordered to stand trial over rape accusation",
@@ -126,7 +181,11 @@
    "source": "NYT",
    "why": "Major film-world news.",
    "minutes": null,
-   "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26france-depardieu-02-blqg/26france-depardieu-02-blqg-mediumSquareAt3X.jpg"
+   "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26france-depardieu-02-blqg/26france-depardieu-02-blqg-mediumSquareAt3X.jpg",
+   "tags": [
+    "film-tv",
+    "world"
+   ]
   },
   {
    "title": "Lured by high salaries, Brazilians duped into fighting for Russia",
@@ -134,7 +193,10 @@
    "source": "NYT",
    "why": "World news.",
    "minutes": null,
-   "image": "https://static01.nyt.com/images/2026/02/02/multimedia/00int-brazil-russia-soldiers-01-pmvf/00int-brazil-russia-soldiers-01-pmvf-mediumSquareAt3X.jpg"
+   "image": "https://static01.nyt.com/images/2026/02/02/multimedia/00int-brazil-russia-soldiers-01-pmvf/00int-brazil-russia-soldiers-01-pmvf-mediumSquareAt3X.jpg",
+   "tags": [
+    "world"
+   ]
   }
  ],
  "discover": [
@@ -143,14 +205,22 @@
    "link": "https://www.provideocoalition.com/desert-palms-captured-with-blackmagic-ursa-cine-immersive/amp/",
    "why": "An immersive short shot in one continuous take in an ER waiting room, made with a Venice grant and Blackmagic's immersive camera. Right in your VR180 lane.",
    "found_via": "Web search on new immersive filmmakers",
-   "image": "https://www.provideocoalition.com/wp-content/uploads/desertpalms002.jpg"
+   "image": "https://www.provideocoalition.com/wp-content/uploads/desertpalms002.jpg",
+   "tags": [
+    "vr180",
+    "filmmaking"
+   ]
   },
   {
    "name": "Reversal by Lena Herzog",
    "link": "https://www.annecyfestival.com/en/the-festival/official-selection/2026-immersive-works/reversal",
    "why": "A 25-minute VR short mixing animation, live action and rotoscope, in Annecy's 2026 immersive selection.",
    "found_via": "Web search on 2026 immersive film",
-   "image": "https://www.annecyfestival.com/sites/default/files/2025-02/partage_2025.jpg"
+   "image": "https://www.annecyfestival.com/sites/default/files/2025-02/partage_2025.jpg",
+   "tags": [
+    "vr180",
+    "art"
+   ]
   }
  ],
  "wildcard": {
@@ -158,7 +228,10 @@
   "link": "https://www.kirkusreviews.com/book-reviews/katie-kitamura/audition-2/",
   "why": "An unsettling novel about an actress and a young man who may be her son. Follows from today's Kitamura interview.",
   "found_via": "Louisiana Channel interview today",
-  "image": "https://d1fd687oe6a92y.cloudfront.net/img/user-media/titles/title/cover/f8eb4ddfe4ee4220b380094d9f047a83/f90cec806e2b4e87ba28566e1488fc47.jpg.300x0_q85_autocrop.webp"
+  "image": "https://d1fd687oe6a92y.cloudfront.net/img/user-media/titles/title/cover/f8eb4ddfe4ee4220b380094d9f047a83/f90cec806e2b4e87ba28566e1488fc47.jpg.300x0_q85_autocrop.webp",
+  "tags": [
+   "books"
+  ]
  },
  "skipped": 20
 }

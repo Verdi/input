@@ -9,7 +9,11 @@
    "source": "NYT",
    "why": "Local pushback on AI infrastructure, a real shift.",
    "minutes": null,
-   "image": "https://static01.nyt.com/images/2026/11/17/business/17-vertical-data-center-handouts-04/17-vertical-data-center-handouts-04-mediumSquareAt3X.jpg"
+   "image": "https://static01.nyt.com/images/2026/11/17/business/17-vertical-data-center-handouts-04/17-vertical-data-center-handouts-04-mediumSquareAt3X.jpg",
+   "tags": [
+    "ai",
+    "news"
+   ]
   }
  ],
  "watch": [
@@ -19,7 +23,11 @@
    "source": "Adam Savage's Tested",
    "why": "Adam Savage inside the Library of Congress audio preservation lab.",
    "minutes": null,
-   "image": null
+   "image": null,
+   "tags": [
+    "filmmaking",
+    "art"
+   ]
   },
   {
    "title": "Playing GTA 6 with Rokid AR Spatial Glasses",
@@ -27,7 +35,11 @@
    "source": "Spatial Insider",
    "why": "GTA VI meets spatial glasses, two of your interests.",
    "minutes": null,
-   "image": null
+   "image": null,
+   "tags": [
+    "games",
+    "vr180"
+   ]
   }
  ],
  "headlines": [
@@ -37,7 +49,11 @@
    "source": "NYT",
    "why": "Follow-up on the new tariffs.",
    "minutes": null,
-   "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26Biz-Asia-Tariffs-01-fzkq/26Biz-Asia-Tariffs-01-fzkq-mediumSquareAt3X.jpg"
+   "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26Biz-Asia-Tariffs-01-fzkq/26Biz-Asia-Tariffs-01-fzkq-mediumSquareAt3X.jpg",
+   "tags": [
+    "us-politics",
+    "world"
+   ]
   },
   {
    "title": "The Army Knew Much Earlier of the Explosive Risk in Iowa, Evidence Suggests",
@@ -45,7 +61,10 @@
    "source": "NYT",
    "why": "New evidence on the Iowa stockpile story.",
    "minutes": null,
-   "image": "https://static01.nyt.com/images/2026/11/25/arts/US-army-prep-cover-image/US-army-prep-cover-image-mediumSquareAt3X.jpg"
+   "image": "https://static01.nyt.com/images/2026/11/25/arts/US-army-prep-cover-image/US-army-prep-cover-image-mediumSquareAt3X.jpg",
+   "tags": [
+    "news"
+   ]
   },
   {
    "title": "Trump Administration's Cuts to SNAP Threaten Free School Meals",
@@ -53,7 +72,10 @@
    "source": "NYT",
    "why": "US politics.",
    "minutes": null,
-   "image": "https://static01.nyt.com/images/2026/11/25/multimedia/00dc-schoolmeals-01-glzv/00dc-schoolmeals-01-glzv-mediumSquareAt3X.jpg"
+   "image": "https://static01.nyt.com/images/2026/11/25/multimedia/00dc-schoolmeals-01-glzv/00dc-schoolmeals-01-glzv-mediumSquareAt3X.jpg",
+   "tags": [
+    "us-politics"
+   ]
   },
   {
    "title": "Federal judge blocks the FCC from reviewing ABC's licenses early",
@@ -61,7 +83,11 @@
    "source": "The Verge",
    "why": "Media and politics.",
    "minutes": null,
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&strip=all&crop=0,0,100,100"
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "tags": [
+    "us-politics",
+    "film-tv"
+   ]
   },
   {
    "title": "GTA VI developers vote against unionization",
@@ -69,7 +95,10 @@
    "source": "The Verge",
    "why": "Rockstar news.",
    "minutes": null,
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Jason_and_Lucia_01.jpg?quality=90&strip=all&crop=0,0,100,100"
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Jason_and_Lucia_01.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "tags": [
+    "games"
+   ]
   },
   {
    "title": "Android app developers will soon have to share their address publicly",
@@ -77,7 +106,10 @@
    "source": "The Verge",
    "why": "Matters to indie developers.",
    "minutes": null,
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&strip=all&crop=0,0,100,100"
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "tags": [
+    "tech"
+   ]
   }
  ],
  "discover": [
@@ -86,21 +118,34 @@
    "link": "https://shifthappens.site/",
    "why": "Wichary runs Unsung. This is his 1,200-page, self-published book on keyboards. A real labor of love.",
    "found_via": "Daring Fireball, Marcin Wichary",
-   "image": "https://shifthappens.site/images/ogimage.jpg"
+   "image": "https://shifthappens.site/images/ogimage.jpg",
+   "tags": [
+    "books",
+    "design"
+   ]
   },
   {
    "name": "Submerged: Apple Vision Pro's first scripted film",
    "link": "https://www.wallpaper.com/tech/behind-the-scenes-of-short-film-submerged-the-apple-vision-pros-first-slice-of-unique-content",
    "why": "Behind-the-scenes look at scripted immersive filmmaking, close to your VR180 work.",
    "found_via": "Web search on immersive film",
-   "image": "https://cdn.mos.cms.futurecdn.net/4wygZnhri4Q7pLHnA6euYB-2560-80.jpg"
+   "image": "https://cdn.mos.cms.futurecdn.net/4wygZnhri4Q7pLHnA6euYB-2560-80.jpg",
+   "tags": [
+    "vr180",
+    "film-tv",
+    "apple"
+   ]
   }
  ],
  "wildcard": {
   "name": "George Blood Audio on the Internet Archive",
   "link": "https://archive.org/details/georgeblood",
   "why": "Hundreds of thousands of digitized 78rpm records, from the kind of audio preservation Adam Savage visited.",
-  "found_via": "Adam Savage's Library of Congress video"
+  "found_via": "Adam Savage's Library of Congress video",
+  "tags": [
+   "art",
+   "music"
+  ]
  },
  "skipped": 10
 }
