@@ -1,0 +1,66 @@
+{
+ "at": "2026-11-26T21:13:34.974791-06:00",
+ "notes": "Quiet night after Thanksgiving. Seth Meyers clip skipped (family interview, not A Closer Look).",
+ "must_see": [],
+ "read": [],
+ "watch": [],
+ "headlines": [
+  {
+   "title": "A City Fears the Loss of Its Pier After a Section Collapsed Into the Sea",
+   "link": "https://www.nytimes.com/2026/11/26/us/pacifica-pier-collapse-el-nino-king-tides.html",
+   "source": "NYT > Top Stories",
+   "why": "Storm and king-tide damage on the California coast.",
+   "minutes": null,
+   "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26nat-ca-pacifica",
+   "tags": [
+    "news"
+   ]
+  },
+  {
+   "title": "After the Iowa Detonation, a Family Gathered for an Unusual Thanksgiving",
+   "link": "https://www.nytimes.com/2026/11/26/us/iowa-detonation-family-thanksgiving.html",
+   "source": "NYT > Top Stories",
+   "why": "Human follow-up to the Iowa ammunition plant story you've been following.",
+   "minutes": null,
+   "image": "https://static01.nyt.com/images/2026/11/26/us/26nat-iowa-blast-dinner--02/26nat-iowa-blast-dinner--02-mediumSquareAt3X.jpg",
+   "tags": [
+    "news"
+   ]
+  }
+ ],
+ "discover": [
+  {
+   "name": "No Proscenium: Venice Immersive 2026 FOMO guide",
+   "link": "https://www.noproscenium.com/venice-immersive-2026-fomo-guide/",
+   "why": "A rundown of the 13 competition works at Venice Immersive, the program you liked. Some are in-person only, but it reads about each work.",
+   "found_via": "Web search on Venice Immersive 2026",
+   "tags": [
+    "vr180",
+    "art"
+   ],
+   "image": "https://storage.ghost.io/c/4a/4c/4a4c4747-13cd-49f5-9bc3-7bc45024a366/content/images/size/w1200/2026/09/DCR_empire_at_sea_HERO_IMAGE_S2_6.jpeg"
+  },
+  {
+   "name": "Seestar + PixInsight: Rosette Nebula to Hubble Palette",
+   "link": "https://www.seestar.com/blogs/tutorial/how-to-convert-the-rosette-nebula-to-hubble-palette-in-pixinsight",
+   "why": "Step-by-step PixInsight workflow for smart telescope data, with a PDF. You have both.",
+   "found_via": "Web search on PixInsight smart telescope processing",
+   "tags": [
+    "science"
+   ],
+   "image": "https://www.seestar.com/cdn/shop/articles/PixInsight_guide_6b14cba4-3191-4ebe-9104-5285a5876581.jpg?v=1767004023"
+  }
+ ],
+ "wildcard": {
+  "name": "Siril: Processing Seestar images",
+  "link": "https://siril.org/tutorials/seestar/",
+  "why": "A free, open-source alternative to PixInsight for smart telescope stacking. Good to compare.",
+  "found_via": "Web search on PixInsight smart telescope processing",
+  "tags": [
+   "science",
+   "tech"
+  ],
+  "image": "https://siril.org/tutorials/seestar/seestar.jpg"
+ },
+ "skipped": 6
+}
