@@ -1,0 +1,94 @@
+{
+ "at": "2026-11-27T17:12:39.342905-06:00",
+ "notes": "Quiet holiday afternoon, mostly Black Friday deals (skipped). Reddit skipped.",
+ "must_see": [],
+ "read": [
+  {
+   "title": "Russia\u2019s Big Ambitions for A.I. Are Undercut by Constraints of War",
+   "link": "https://www.nytimes.com/2026/11/27/world/europe/russia-ai-journey-conference.html",
+   "source": "NYT > Top Stories",
+   "why": "How war and sanctions limit a country's AI push.",
+   "minutes": null,
+   "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-russia-AI-001-cfkp/27int-russia-AI-001-cfkp-mediumSquareAt3X.jpg",
+   "tags": [
+    "ai",
+    "world"
+   ]
+  },
+  {
+   "title": "My favorite MPC beat maker is ready for your vibe-coded firmware and effects",
+   "link": "https://www.theverge.com/gadgets/1044485/mpc-sample-firmware-sdk",
+   "source": "The Verge",
+   "why": "A music box opens up to custom code, which fits your app building.",
+   "minutes": null,
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268415_MPC_Sample_TO_Brien_0006.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "tags": [
+    "music",
+    "tech"
+   ]
+  }
+ ],
+ "watch": [
+  {
+   "title": "PBS News Hour live episode, Nov. 27, 2026",
+   "link": "https://www.youtube.com/watch?v=eH2YMuE_FAs",
+   "source": "PBS NewsHour",
+   "why": "Today's full news hour, including the buy now, pay later story.",
+   "minutes": null,
+   "image": "https://i2.ytimg.com/vi/eH2YMuE_FAs/hqdefault.jpg",
+   "tags": [
+    "news",
+    "us-politics"
+   ]
+  }
+ ],
+ "headlines": [
+  {
+   "title": "Andrea Stewart-Cousins, New York\u2019s First Female Senate Majority Leader, Dies",
+   "link": "https://www.nytimes.com/2026/11/27/us/andrea-stewart-cousins-dead.html",
+   "source": "NYT > Top Stories",
+   "why": "Major US political figure has died.",
+   "minutes": null,
+   "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27met-cousins-death-kpcz/27met-cousins-death-kpcz-mediumSquareAt3X.jpg",
+   "tags": [
+    "us-politics",
+    "news"
+   ]
+  }
+ ],
+ "discover": [
+  {
+   "name": "Websites: Zines of the Digital Age",
+   "link": "https://max-writes.github.io/outlines/websites-are-zines",
+   "why": "An essay arguing hand-coded personal sites are the new zines. Your indie web and zine interests meet.",
+   "found_via": "Web search on indie web and zines",
+   "tags": [
+    "indie-web",
+    "art"
+   ],
+   "image": "https://max-writes.github.io/outlines/websites-are-zines-og-image.webp"
+  },
+  {
+   "name": "Sunday Mourners: A-Rhythm Absolute interview",
+   "link": "https://atwoodmagazine.com/smra-sunday-mourners-a-rhythm-absolute-debut-album-interview-music-feature/",
+   "why": "An LA post-punk band with a debut album, talking about rock as art, not content.",
+   "found_via": "Web search on new post-punk albums",
+   "tags": [
+    "music"
+   ],
+   "image": "https://atwoodmagazine.com/wp-content/uploads/2026/10/Sunday-Mourners-by-Marissa-Briones.jpg"
+  }
+ ],
+ "wildcard": {
+  "name": "Tone Glow 225: Tara Clerkin Trio",
+  "link": "https://toneglow.substack.com/p/tone-glow-225-tara-clerkin-trio",
+  "why": "A podcast and newsletter on experimental music. A strange, quiet trio from outside your usual rock.",
+  "found_via": "Web search on new indie music",
+  "tags": [
+   "music",
+   "art"
+  ],
+  "image": "https://substackcdn.com/image/fetch/$s_!AJG8!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90097bf6-622f-4854-a80b-d1f4b882f159_3130x2075.jpeg"
+ },
+ "skipped": 10
+}
