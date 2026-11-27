@@ -1,0 +1,124 @@
+{
+ "at": "2026-11-27T07:15:06.286207-06:00",
+ "notes": "Quiet Black Friday morning, mostly deals (skipped). No new A Closer Look. Reddit skipped.",
+ "must_see": [],
+ "read": [
+  {
+   "title": "Grand Theft Auto VI is a different kind of GTA \u2014 so it needed a different kind of ending",
+   "link": "https://www.theverge.com/entertainment/1043362/grand-theft-auto-6-ending",
+   "source": "The Verge",
+   "why": "You're playing GTA VI now. Spoilers on the ending, so read after you finish.",
+   "minutes": null,
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STKS540_GTA_VI_D.jpg?quality=90&strip=all&crop=0,0,100,100",
+   "tags": [
+    "games"
+   ]
+  },
+  {
+   "title": "Religion Is a Solution to the Problems of Our Tech Age",
+   "link": "https://www.nytimes.com/2026/11/27/opinion/religion-revival-technology.html",
+   "source": "NYT",
+   "why": "An opinion piece on tech and meaning that cuts against the usual AI talk.",
+   "minutes": null,
+   "image": "https://static01.nyt.com/images/2026/11/29/multimedia/27leibowitz-lfwz/27leibowitz-lfwz-mediumSquareAt3X.jpg",
+   "tags": [
+    "tech",
+    "news"
+   ]
+  }
+ ],
+ "watch": [],
+ "headlines": [
+  {
+   "title": "Thanksgiving Storm Leaves Half a Million Without Power on the East Coast",
+   "link": "https://www.nytimes.com/2026/11/27/us/thanksgiving-weather-east-coast-storm.html",
+   "source": "NYT",
+   "why": "Big US story today.",
+   "minutes": null,
+   "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27xp-storm-toll-01-htqv/27xp-storm-toll-01-htqv-mediumSquareAt3X.jpg",
+   "tags": [
+    "news"
+   ]
+  },
+  {
+   "title": "Stocks Set to Rally at End of a Week of Wild Swings",
+   "link": "https://www.nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html",
+   "source": "NYT",
+   "why": "Markets after a wild week of AI and tech swings.",
+   "minutes": null,
+   "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27markets-promo-pvkw/27markets-promo-pvkw-mediumSquareAt3X.jpg",
+   "tags": [
+    "news",
+    "ai"
+   ]
+  },
+  {
+   "title": "iPhone Share of US Smartphone Market Hits 57% as Rivals Slip",
+   "link": "https://www.macrumors.com/2026/11/27/iphone-share-us-smartphone-market-rises/",
+   "source": "MacRumors",
+   "why": "Big-picture Apple market news.",
+   "minutes": null,
+   "image": "https://images.macrumors.com/article-new/2026/10/iPhone-18-Pro-Pre-Orders-Feature-Sans-Text.jpg",
+   "tags": [
+    "apple",
+    "tech"
+   ]
+  },
+  {
+   "title": "The Threat to a Sanctuary for Children of North Korean Defectors",
+   "link": "https://www.nytimes.com/2026/11/27/world/asia/the-threat-to-a-sanctuary-for-children-of-north-korean-defectors.html",
+   "source": "NYT",
+   "why": "World story worth a look.",
+   "minutes": null,
+   "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27int-korea-defector-school-01-bgjf/27int-korea-defector-school-01-bgjf-mediumSquareAt3X.jpg",
+   "tags": [
+    "world"
+   ]
+  }
+ ],
+ "discover": [
+  {
+   "name": "Cybercultural: My 2025 Indie Web Report",
+   "link": "https://cybercultural.com/p/indie-web-report-2025/",
+   "why": "A personal-site owner's year of notes on the open web, with many links to small sites and tools.",
+   "found_via": "Web search on indie web",
+   "tags": [
+    "indie-web"
+   ],
+   "image": "https://cybercultural.com/assets/images/josue-sanchez-dlhpGNkNFh4-unsplashb.jpg"
+  },
+  {
+   "name": "New Public: The handmade internet is making a comeback",
+   "link": "https://newpublic.substack.com/p/the-handmade-internet-is-making-a",
+   "why": "A guide to the quirky, homemade corners of the web, and how to find them.",
+   "found_via": "Web search on indie web",
+   "tags": [
+    "indie-web",
+    "design"
+   ],
+   "image": "https://substackcdn.com/image/fetch/$s_!QfFx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8a947760-85ee-4de6-a2b0-53130add1b13_1456x1048.png"
+  },
+  {
+   "name": "Blogroll.org",
+   "link": "https://blogroll.org/",
+   "why": "A directory of blogrolls. Good for finding new people to follow in RSS.",
+   "found_via": "Web search on indie web",
+   "tags": [
+    "indie-web"
+   ],
+   "image": "https://blogroll.org/media/site/fff09f094a-1741629388/social.jpg"
+  }
+ ],
+ "wildcard": {
+  "name": "XR Must: Jake Oleson on making CURRENTS",
+  "link": "https://xrmust.com/xr-magazine/jake-oleson-currents/",
+  "why": "An interview on making a VR180 film for Vision Pro with a small kit. It's a magazine that covers immersive work.",
+  "found_via": "Web search on VR180 filmmakers",
+  "tags": [
+   "vr180",
+   "filmmaking"
+  ],
+  "image": "https://xrmust.com/wp-content/uploads/2025/04/XRMust_Currents_Still06.webp"
+ },
+ "skipped": 22
+}
