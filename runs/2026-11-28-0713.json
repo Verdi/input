@@ -1,0 +1,114 @@
+{
+ "at": "2026-11-28T07:13:21.266962-06:00",
+ "notes": "Slow Black Friday weekend. Deals skipped. Daring Fireball had nothing new.",
+ "must_see": [
+  {
+   "title": "Millions of Children Are Losing Food Stamps",
+   "link": "https://www.nytimes.com/2026/11/28/us/politics/millions-of-children-are-losing-food-stamps.html",
+   "source": "NYT",
+   "why": "Big US politics story: two million kids have lost SNAP benefits after the Republican bill.",
+   "minutes": null,
+   "image": "https://static01.nyt.com/images/2026/11/23/multimedia/00DC-SNAP-CUTS-wthl/00DC-SNAP-CUTS-wthl-mediumSquareAt3X.jpg",
+   "tags": [
+    "us-politics",
+    "news"
+   ]
+  }
+ ],
+ "read": [
+  {
+   "title": "What the World\u2019s Richest Man Did to the World\u2019s Poorest Children",
+   "link": "https://www.nytimes.com/2026/11/28/opinion/elon-musk-usaid-south-sudan.html",
+   "source": "NYT",
+   "why": "Kristof reports from South Sudan on deaths tied to the USAID cuts.",
+   "minutes": null,
+   "image": "https://static01.nyt.com/images/2026/11/29/multimedia/00kristof-aid-13-kqpg/00kristof-aid-13-kqpg-mediumSquareAt3X-v2.jpg",
+   "tags": [
+    "us-politics",
+    "world"
+   ]
+  },
+  {
+   "title": "My Six Months With Saddam Hussein",
+   "link": "https://www.nytimes.com/2026/11/28/opinion/saddam-hussein-us-iraq-war.html",
+   "source": "NYT",
+   "why": "The FBI interrogator on what profilers got wrong before the Iraq war.",
+   "minutes": null,
+   "image": "https://static01.nyt.com/images/2026/12/08/opinion/28piro1/08piro1-mediumSquareAt3X.jpg",
+   "tags": [
+    "world",
+    "news"
+   ]
+  },
+  {
+   "title": "Pedro Pascal\u2019s Life Began With a Rupture. He\u2019s Still Coming to Terms With It.",
+   "link": "https://www.nytimes.com/2026/11/28/magazine/pedro-pascal-interview.html",
+   "source": "NYT",
+   "why": "Long interview with the star of the new film Behemoth!",
+   "minutes": null,
+   "image": "https://static01.nyt.com/images/2026/12/06/magazine/06mag-interview-pascal-05/06mag-interview-pascal-05-mediumSquareAt3X.jpg",
+   "tags": [
+    "film-tv"
+   ]
+  }
+ ],
+ "watch": [],
+ "headlines": [
+  {
+   "title": "Ukraine\u2019s Deep Strikes Grow in Scale and Scope Across Russia and Beyond",
+   "link": "https://www.nytimes.com/2026/11/28/world/europe/ukraine-russia-long-range-strikes.html",
+   "source": "NYT",
+   "why": "Ukraine's campaign against Russian fuel and weapons, which the Trump administration has criticized.",
+   "minutes": null,
+   "image": "https://static01.nyt.com/images/2026/11/28/multimedia/28int-ukraine-air-war-01-top-kgtp/28int-ukraine-air-war-01-top-kgtp-mediumSquareAt3X-v3.jpg",
+   "tags": [
+    "world",
+    "news"
+   ]
+  },
+  {
+   "title": "HomePod Mini 2 in (RED) Seemingly Spotted Ahead of Announcement",
+   "link": "https://www.macrumors.com/2026/11/27/red-homepod-mini-2-seemingly-spotted/",
+   "source": "MacRumors",
+   "why": "HomePod mini 2 expected by Dec 1.",
+   "minutes": null,
+   "image": "https://images.macrumors.com/article-new/2026/11/HomePod-Mini-2-RED-Photos.jpg",
+   "tags": [
+    "apple"
+   ]
+  }
+ ],
+ "discover": [
+  {
+   "name": "Nora Codes: Infrastructure Photography Manifesto (and Decker-in-HTML)",
+   "link": "https://nora.codes/post/infrastructure-photography-manifesto-and-decker-in-html/",
+   "why": "A zine made in Decker and embedded in a personal site. It fits your HyperCard vote and the indie web.",
+   "found_via": "Web search on Decker zines",
+   "tags": [
+    "indie-web",
+    "art"
+   ]
+  },
+  {
+   "name": "HMLTD on their third album FANGS",
+   "link": "https://www.clashmusic.com/?p=466121",
+   "why": "A vampire-themed art-rock album written in a French chateau, aimed at the attention economy.",
+   "found_via": "Web search on new post-punk albums",
+   "tags": [
+    "music"
+   ],
+   "image": "https://www.clashmusic.com/wp-content/uploads/2026/11/IMG_7861-RoseMihman-scaled.jpg"
+  }
+ ],
+ "wildcard": {
+  "name": "Desperate Journalist: Gilding the Lily",
+  "link": "https://www.thelineofbestfit.com/news/desperate-journalist-announce-sixth-album-gilding-the-lily-and-share-terrible-years",
+  "why": "London post-punk in the Cure and Siouxsie lineage. Their sixth album came out Nov 20.",
+  "found_via": "Web search on new post-punk albums",
+  "tags": [
+   "music"
+  ],
+  "image": "https://cdn.craft.cloud/3747bbfe-07db-499d-aa3d-b239ba21c062/assets/images/Desperate-Journalist-Press-Shot-2026.jpg?fit=cover&format=webp&quality=100&width=1200&s=bBZZ-G0dbc-q6LcDFjdgPVSqbAei51pF1PBCeUJUBb4"
+ },
+ "skipped": 4
+}
