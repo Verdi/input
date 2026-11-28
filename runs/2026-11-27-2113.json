@@ -1,0 +1,174 @@
+{
+ "at": "2026-11-27T21:13:32.347409-06:00",
+ "notes": "Quiet post-holiday evening. Reddit skipped. Black Friday deals skipped.",
+ "must_see": [],
+ "read": [
+  {
+   "title": "Supreme Court Rulings Cheered by Republicans Wound Up Hurting Them",
+   "link": "https://www.nytimes.com/2026/11/27/us/politics/supreme-court-rulings-midterms-voting.html",
+   "source": "NYT > Top Stories",
+   "why": "Smart political analysis of how court wins backfired heading into the midterms.",
+   "minutes": [
+    "us-politics",
+    "news"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/27/multimedia/00DC-BACKLASH-01-vzhc/00DC-BACKLASH-01-vzhc-mediumSquareAt3X-v2.jpg",
+   "tags": null
+  },
+  {
+   "title": "OpenAI Countersues Apple for Stealing Trade Secrets",
+   "link": "https://www.ft.com/content/af599e07-d44c-4068-ab84-6ee3c85551d4?syn-25a6b1a6=1",
+   "source": "Daring Fireball",
+   "why": "Big Apple and AI industry fight, not a minor rumor.",
+   "minutes": [
+    "apple",
+    "ai",
+    "tech"
+   ],
+   "image": null,
+   "tags": null
+  }
+ ],
+ "watch": [
+  {
+   "title": "7 Mind-Blowing Things People Made in HyperCard",
+   "link": "https://www.youtube.com/watch?v=7oqlMRPkilg",
+   "source": "dreamwieber",
+   "why": "Small-tool making history that fits the indie web and design crowd.",
+   "minutes": [
+    "indie-web",
+    "design"
+   ],
+   "image": null,
+   "tags": null
+  },
+  {
+   "title": "The Temple of the Reclining Buddha 3D 7680x3840 02",
+   "link": "https://www.youtube.com/watch?v=1kAJRwKIo3I",
+   "source": "Al Caudullo",
+   "why": "New VR180 piece from a creator you follow.",
+   "minutes": [
+    "vr180"
+   ],
+   "image": null,
+   "tags": null
+  },
+  {
+   "title": "Rachel Maddow discusses how the Justice Department has strayed from its mission",
+   "link": "https://www.youtube.com/watch?v=OmZfNenqQJU",
+   "source": "PBS NewsHour",
+   "why": "Sharp political analysis on the DOJ.",
+   "minutes": [
+    "us-politics",
+    "news"
+   ],
+   "image": null,
+   "tags": null
+  },
+  {
+   "title": "Brooks and Capehart on Trump's new tariffs, Nvidia's future and Democratic leadership",
+   "link": "https://www.youtube.com/watch?v=IRbLJ-asqIU",
+   "source": "PBS NewsHour",
+   "why": "The weekly politics roundup.",
+   "minutes": [
+    "us-politics",
+    "news"
+   ],
+   "image": null,
+   "tags": null
+  },
+  {
+   "title": "Exploring an AI reboot and the ethics that surround it",
+   "link": "https://www.youtube.com/watch?v=G3_6PMntRdg",
+   "source": "PBS NewsHour",
+   "why": "A thoughtful look at AI ethics, not hype.",
+   "minutes": [
+    "ai"
+   ],
+   "image": null,
+   "tags": null
+  }
+ ],
+ "headlines": [
+  {
+   "title": "Planning Board to Hold Last-Minute Meeting to Consider Trump's D.C. Construction",
+   "link": "https://www.nytimes.com/2026/11/27/us/politics/planning-board-trump-construction-meeting.html",
+   "source": "NYT > Top Stories",
+   "why": "",
+   "minutes": [
+    "us-politics"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27dc-planning-pzmq/27dc-planning-pzmq-mediumSquareAt3X.jpg",
+   "tags": null
+  },
+  {
+   "title": "For One Stormy Moment, D.C. Reveled in a Blank Wall Where Trump's Name Once Hung",
+   "link": "https://www.nytimes.com/2026/11/27/us/politics/kennedy-center-trump-name-tarp.html",
+   "source": "NYT > Top Stories",
+   "why": "",
+   "minutes": [
+    "us-politics"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27dc-tarps-lpjw/27dc-tarps-lpjw-mediumSquareAt3X.jpg",
+   "tags": null
+  },
+  {
+   "title": "Thanksgiving dinners canceled or postponed amid power outages and storms",
+   "link": "https://www.nytimes.com/2026/11/27/us/thanksgiving-delayed-storm.html",
+   "source": "NYT > Top Stories",
+   "why": "",
+   "minutes": [
+    "news"
+   ],
+   "image": "https://static01.nyt.com/images/2026/11/27/multimedia/27nat-thanksgiving-do-over-1-ktwf/27nat-thanksgiving-do-over-1-ktwf-mediumSquareAt3X.jpg",
+   "tags": null
+  },
+  {
+   "title": "Nvidia's restricted Blackwell chips found at a Shanghai datacenter",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-",
+   "source": "Daring Fireball",
+   "why": "",
+   "minutes": [
+    "tech",
+    "ai",
+    "world"
+   ],
+   "image": null,
+   "tags": null
+  }
+ ],
+ "discover": [
+  {
+   "name": "HyperCard-style tools on itch.io (Decker, Zkolada, Oblique Strategies)",
+   "link": "https://itch.io/tools/newest/free/released/tag-hypercard",
+   "why": "Free, tiny, playable stacks you can open in the browser, from people still building in the HyperCard spirit.",
+   "found_via": "Web search after the HyperCard video",
+   "tags": [
+    "indie-web",
+    "art"
+   ],
+   "image": "https://img.itch.zone/aW1nLzI1Nzg2NTI5LnBuZw==/508x254%23b/c36s%2FY.png"
+  },
+  {
+   "name": "Book Riot: New SF & Fantasy for November 2026",
+   "link": "https://bookriot.com/science-fiction-and-fantasy-books-november-2026/",
+   "why": "Quick list of this month's sci-fi, e.g. Line of Descent by Adam Oyebanji and Chimera Skin.",
+   "found_via": "Web search",
+   "tags": [
+    "books"
+   ],
+   "image": "https://bookriot.com/wp-content/uploads/2026/10/new-science-fiction-and-fantasy-books-november-2026-book-covers.jpg.optimal.jpg"
+  }
+ ],
+ "wildcard": {
+  "name": "Decker: HyperCard for the modern web",
+  "link": "https://boingboing.net/2026/07/27/decker-is-hypercard-for-the-modern-web.html",
+  "why": "A living platform for making zine-like interactive stacks; links your design and indie-web interests.",
+  "found_via": "Web search (page blocked my fetch, found in search results)",
+  "tags": [
+   "indie-web",
+   "design"
+  ]
+ },
+ "skipped": 10
+}
